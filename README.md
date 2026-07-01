@@ -5,12 +5,15 @@
 **Goal:** Become a job-ready AI Engineer
 
 ## 🎯 My 2026 Vision
+
 I will build AI products in:
+
 - Automation
 - Trading
 - Renewable Energy
 
 ## 🏆 12-Book Roadmap
+
 1. ✅ Book 1: Computer Science Foundations (July 1-20) - STARTED
 2. ⬜ Book 2: Mathematics for AI (July 21-Aug 19)
 3. ⬜ Book 3: Data Engineering & Analysis (Aug 4-21)
@@ -25,6 +28,7 @@ I will build AI products in:
 12. ⬜ Book 12: Daily Execution System (Dec 5-31)
 
 ## 📚 5 AI Companies I Admire
+
 1. OpenAI - Research & Development
 2. DeepMind - AI for Science
 3. Anthropic - Safe AI
@@ -32,6 +36,7 @@ I will build AI products in:
 5. Stability AI - Generative AI
 
 ## 📅 Daily Progress
-| Date | Day | Topic | Status |
-|:---|:---|:---|:---|
+
+| Date         | Day   | Topic           | Status      |
+| :----------- | :---- | :-------------- | :---------- |
 | July 1, 2026 | Day 1 | Welcome & Setup | ✅ Complete |
