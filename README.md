@@ -1,7 +1,7 @@
 # 🤖 My AI Engineer Journey
 
 **Name:** Vamshhidhar Reddy
-**Start Date:** July 1, 2026
+**Start Date:** August 5, 2026
 **Goal:** Become a job-ready AI Engineer
 
 ## 🎯 My 2026 Vision
